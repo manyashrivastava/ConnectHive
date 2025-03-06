@@ -1,6 +1,6 @@
-# ConnectHive [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-blue)]https://github.com/manyashrivastava
+# ConnectiveHive [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-blue)]https://github.com/manyashrivastava
 
-![ConnectiveHive](https://th.bing.com/th/id/OIP.VbXnQ_scyen5aROdC2h59wHaHa?rs=1&pid=ImgDetMain)"style="margin: right 2px;cm;width = 2; height =" id="logos" >
+![ConnectiveHive]("https://th.bing.com/th/id/OIP.VbXnQ_scyen5aROdC2h59wHaHa?rs=1&pid=ImgDetMain")
 
 ## Live Demo
 
@@ -44,7 +44,7 @@ Follow these instructions to set up the project on your local machine.
 
 2. Navigate to the project directory:
     ```sh
-    cd ConnectiveHive
+    cd vastra
     ```
 
 3. Open `index.html` in your web browser to view the website.
