@@ -1,6 +1,6 @@
 # ConnectiveHive [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-blue)]https://github.com/manyashrivastava
 
-![ConnectiveHive](https://th.bing.com/th/id/OIP.VbXnQ_scyen5aROdC2h59wHaHa?rs=1&pid=ImgDetMain)style="margin: right 2px;cm;width = 2; height =" id="logos" ><alt="logoImage" class="logo-ConnectiveHive">")
+![ConnectiveHive](https://th.bing.com/th/id/OIP.VbXnQ_scyen5aROdC2h59wHaHa?rs=1&pid=ImgDetMain)style="margin: right 2px;cm;width = 2; height =" id="logos" >
 
 ## Live Demo
 
