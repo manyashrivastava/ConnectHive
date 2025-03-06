@@ -1,6 +1,6 @@
-# ConnectiveHive [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-blue)]https://github.com/manyashrivastava
+# ConnectHive [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-blue)]https://github.com/manyashrivastava
 
-![ConnectiveHive]("https://th.bing.com/th/id/OIP.VbXnQ_scyen5aROdC2h59wHaHa?rs=1&pid=ImgDetMain")
+![ConnectHive]("https://th.bing.com/th/id/OIP.VbXnQ_scyen5aROdC2h59wHaHa?rs=1&pid=ImgDetMain")
 
 ## Live Demo
 
@@ -8,9 +8,9 @@ Check out the live website [here]https://github.com/manyashrivastava.
 
 ## Introduction
 
-Welcome to ConnectiveHive, an innovative e-commerce platform designed to provide a seamless and enjoyable online shopping experience. Crafted with precision using HTML, CSS, and JavaScript, ConnectiveHive brings a wide array of aesthetic food clothing items to your fingertips. Our website is designed to be user-friendly and highly responsive, ensuring that users can browse and purchase food items with ease, regardless of the device they are using.
+Welcome to ConnectHive, an innovative e-commerce platform designed to provide a seamless and enjoyable online shopping experience. Crafted with precision using HTML, CSS, and JavaScript, ConnectHive brings a wide array of aesthetic food clothing items to your fingertips. Our website is designed to be user-friendly and highly responsive, ensuring that users can browse and purchase food items with ease, regardless of the device they are using.
 
-ConnectiveHive is more than just an online store; it's a complete shopping experience that combines aesthetic foods, functionality, and performance. Our goal is to offer a smooth and intuitive interface that enhances the overall shopping experience for our customers.
+ConnectHive is more than just an online store; it's a complete shopping experience that combines aesthetic foods, functionality, and performance. Our goal is to offer a smooth and intuitive interface that enhances the overall shopping experience for our customers.
 
 ## Features
 
@@ -44,7 +44,7 @@ Follow these instructions to set up the project on your local machine.
 
 2. Navigate to the project directory:
     ```sh
-    cd ConnectiveHive
+    cd ConnectHive
     ```
 
 3. Open `index.html` in your web browser to view the website.
