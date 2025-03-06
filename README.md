@@ -44,7 +44,7 @@ Follow these instructions to set up the project on your local machine.
 
 2. Navigate to the project directory:
     ```sh
-    cd vastra
+    cd ConnectiveHive
     ```
 
 3. Open `index.html` in your web browser to view the website.
